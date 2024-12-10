@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fathan</h1>
 <h3 align="center">A passionate full stack developer from Bekasi, Indonesia</h3>
 
+- 🌱 I’m currently learning **Go (Programming Language)**
+
+- 💬 Ask me about **ExpressJS, PostgreSQL, Sequelize, MongoDBNextJS, ReactJS, Redux,**
+
 - 📫 How to reach me **abdulshodiqfathan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
