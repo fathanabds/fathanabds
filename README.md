@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Go (Programming Language)**
 
-- 💬 Ask me about **ExpressJS, PostgreSQL, Sequelize, MongoDBNextJS, ReactJS, Redux,**
+- 💬 Ask me about **ExpressJS, PostgreSQL, Sequelize, MongoDB, NextJS, ReactJS, Redux, React Native, GraphQL**
 
 - 📫 How to reach me **abdulshodiqfathan@gmail.com**
 
