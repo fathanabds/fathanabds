@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fathan</h1>
 <h3 align="center">A passionate full stack developer from Bekasi, Indonesia</h3>
 
-- 🌱 I’m currently learning **Go (Programming Language)**
+- 🌱 I’m currently learning **Go (Programming Language)** and **NestJS**
 
 - 💬 Ask me about **ExpressJS, PostgreSQL, Sequelize, MongoDB, NextJS, ReactJS, Redux, React Native, GraphQL**
 
